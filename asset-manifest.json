@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/robopals/static/css/main.70878dcc.chunk.css",
-    "main.js": "/robopals/static/js/main.41599d5c.chunk.js",
-    "main.js.map": "/robopals/static/js/main.41599d5c.chunk.js.map",
+    "main.js": "/robopals/static/js/main.e4b7451a.chunk.js",
+    "main.js.map": "/robopals/static/js/main.e4b7451a.chunk.js.map",
     "runtime-main.js": "/robopals/static/js/runtime-main.488b732b.js",
     "runtime-main.js.map": "/robopals/static/js/runtime-main.488b732b.js.map",
     "static/css/2.66b7f74f.chunk.css": "/robopals/static/css/2.66b7f74f.chunk.css",
     "static/js/2.e9f8442d.chunk.js": "/robopals/static/js/2.e9f8442d.chunk.js",
     "static/js/2.e9f8442d.chunk.js.map": "/robopals/static/js/2.e9f8442d.chunk.js.map",
     "index.html": "/robopals/index.html",
-    "precache-manifest.a95c8d6e7da5a71903cd16489765aca7.js": "/robopals/precache-manifest.a95c8d6e7da5a71903cd16489765aca7.js",
+    "precache-manifest.0c18088f8a885fea37bde69ea2dd8c19.js": "/robopals/precache-manifest.0c18088f8a885fea37bde69ea2dd8c19.js",
     "service-worker.js": "/robopals/service-worker.js",
     "static/css/2.66b7f74f.chunk.css.map": "/robopals/static/css/2.66b7f74f.chunk.css.map",
     "static/css/main.70878dcc.chunk.css.map": "/robopals/static/css/main.70878dcc.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.66b7f74f.chunk.css",
     "static/js/2.e9f8442d.chunk.js",
     "static/css/main.70878dcc.chunk.css",
-    "static/js/main.41599d5c.chunk.js"
+    "static/js/main.e4b7451a.chunk.js"
   ]
 }
